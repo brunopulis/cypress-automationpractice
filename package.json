@@ -4,7 +4,7 @@
   "description": "Automacao com Cypress no site Automation Pratice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "npx cypress open"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/brunopulis/cypress-automationpractice#readme",
   "devDependencies": {
-    "cypress": "^5.4.0"
+    "cypress": "^5.4.0",
+    "faker": "^5.1.0"
   }
 }
