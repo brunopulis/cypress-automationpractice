@@ -1,0 +1,27 @@
+{
+  "name": "cypress-automationpractice",
+  "version": "1.0.0",
+  "description": "Automacao com Cypress no site Automation Pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/cypress-automationpractice.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "e2e"
+  ],
+  "author": "Bruno Pulis <bruno.pulis@gmail.com> (https://brunopulis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunopulis/cypress-automationpractice/issues"
+  },
+  "homepage": "https://github.com/brunopulis/cypress-automationpractice#readme",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
