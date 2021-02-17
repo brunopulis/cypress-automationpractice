@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/brunopulis/cypress-automationpractice#readme",
   "devDependencies": {
-    "cypress": "^5.4.0",
-    "faker": "^5.1.0"
+    "cypress": "5.4.0",
+    "faker": "5.1.0"
   }
 }
